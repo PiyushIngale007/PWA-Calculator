@@ -1,0 +1,21 @@
+{
+  "name": "Scientific Calculator",
+  "short_name": "Hello",
+  "icons": [
+    {
+      "src": "images/hello-icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/hello-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
