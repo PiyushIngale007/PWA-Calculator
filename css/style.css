@@ -139,4 +139,16 @@ button::-moz-focus-inner {
     margin: 0 0px 10px 0px;
     font-size: 30px;
   }
+
+  .button {
+    margin: 3px;
+    width: 46px;
+    border: 1px solid #0d0d0d;
+    height: 30px;
+    border-radius: 4px;
+    color: #d9d9d9;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    outline: none;
+  }
 }
