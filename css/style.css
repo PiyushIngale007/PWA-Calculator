@@ -32,7 +32,7 @@ body {
   font-size: 16px;
   background-color: #333333;
   position: relative;
-  top: 10rem;
+  top: 3rem;
 }
 
 .input {
@@ -97,4 +97,46 @@ button::-moz-focus-inner {
 
 .container {
   width: 100%;
+}
+
+@media (max-width: 786px) {
+  html,
+  .fullscreen {
+    display: flex;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /* width: 100%; */
+  }
+
+  body {
+    background: linear-gradient(
+      to right,
+      rgba(255, 214, 214),
+      rgb(255 214 214)
+    );
+  }
+
+  .calculator {
+    width: 317px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0 auto;
+    font-size: 16px;
+    background-color: #333333;
+    position: relative;
+    top: 10rem;
+  }
+
+  .input {
+    width: 305px;
+    height: 50px;
+    border-radius: 0px;
+    border: 1px solid black;
+    background-color: #333333;
+    color: #d9d9d9;
+    padding: 0 5px 0 5px;
+    margin: 0 0px 10px 0px;
+    font-size: 30px;
+  }
 }
