@@ -3,13 +3,13 @@
   "short_name": "Hello",
   "icons": [
     {
-      "src": "images/hello-icon-128.png",
+      "src": "images/d-icon-128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "images/hello-icon-144.png",
-      "sizes": "144x144",
+      "src": "images/d-icon-144.png",
+      "sizes": "256x256",
       "type": "image/png"
     }
   ],
