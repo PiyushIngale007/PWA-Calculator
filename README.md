@@ -12,5 +12,5 @@ PWAs are gaining popularity. Many big sites are PWAs, like Starbucks.com, Pinter
 ![Test Image 1](test.gif)
 
 
-[PWA-Calculator](https://piyushingale007.github.io/PWA-Calculator/)
+# [PWA-Calculator](https://piyushingale007.github.io/PWA-Calculator/)
 
